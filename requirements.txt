@@ -1,0 +1,10 @@
+fastapi>=0.111
+uvicorn[standard]>=0.30
+transformers>=4.44
+torch>=2.3
+pdfplumber>=0.11
+beautifulsoup4>=4.12
+requests>=2.32
+pydantic>=2.7
+pytest>=8.3
+
